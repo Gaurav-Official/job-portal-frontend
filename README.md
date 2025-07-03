@@ -46,4 +46,4 @@ cd job-portal-frontend
 
 Author
 Gaurav Pandey
-📧 Email: your-gauravofficial6283@gmail.com
+📧 Email: gauravofficial6283@gmail.com
