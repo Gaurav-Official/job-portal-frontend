@@ -1,12 +1,49 @@
-# React + Vite
+# 📝 Job Portal Web Application (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive Job Portal web application built with **React (Vite)** and **ASP.NET Core Web API**.  
+This project allows users to view job listings, post new jobs, search/filter jobs — with authentication-based route protection for applying or posting a job.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📄 View all available job listings
+- 🔍 Live job search and filtering
+- ➕ Post a new job (protected route)
+- 🛡️ User login system
+- 🚫 Redirect unauthenticated users to login when accessing protected pages
+- 📃 Job listing fetched dynamically from ASP.NET Core Web API
+- 📱 Fully responsive with **Tailwind CSS**
+- 📊 Optional DataTable integration for enhanced job listing views
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 Tech Stack
+
+**Frontend:**
+
+- React + Vite
+- React Router DOM
+- Axios
+- Tailwind CSS
+
+**Backend (separate repo):**
+
+- ASP.NET Core Web API
+- Entity Framework Core
+- SQL Server
+
+---
+
+## 📦 Installation & Setup
+
+### 🔧 Clone the Repository
+
+```bash
+git clone https://github.com/Gaurav-Official/job-portal-frontend.git
+cd job-portal-frontend
+```
+
+Author
+Gaurav Pandey
+📧 Email: your-gauravofficial6283@gmail.com
